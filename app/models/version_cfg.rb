@@ -1,0 +1,2 @@
+class VersionCfg < ApplicationRecord
+end

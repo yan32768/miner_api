@@ -1,0 +1,2 @@
+class MinerCmd < ApplicationRecord
+end

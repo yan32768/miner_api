@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cardType: MyString
+  cmd: MyString
+  pkgName: MyString
+  ver: MyString
+
+two:
+  cardType: MyString
+  cmd: MyString
+  pkgName: MyString
+  ver: MyString
