@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  patch 'set_miner_cmd'=>'monitor#set_miner_cmd'
+
   resources :version_cfgs
   resources :miners
   resources :miner_cmds
